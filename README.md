@@ -18,7 +18,7 @@ An AI-powered sales forecasting application that helps businesses predict future
 
 ## 🎯 Live Demo
 
-[Try the live application on Hugging Face](https://huggingface.co/spaces/yourusername/sales-forecasting)
+[Try the live application on Hugging Face](https://huggingface.co/spaces/ZuSofEng99/sales-forecasting-app)
 
 ## 💻 Quick Start
 
